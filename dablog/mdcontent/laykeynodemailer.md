@@ -32,7 +32,7 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 > 💡 **Mẹo:** Đặt tên dự án rõ ràng để sau này dễ quản lý hơn.
 
-![Tạo Dự Án Mới](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/create_project.png)
+![Tạo Dự Án Mới](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/uuwssn.png)
 
 ---
 
@@ -44,7 +44,7 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 > 🔑 **Lưu ý:** Nếu bạn không kích hoạt API này, NodeMailer sẽ không thể gửi email thông qua Gmail.
 
-![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/enable_gmail_api.png)
+![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Screenshot%2024-11-23%191544.jpg)
 
 ---
 
