@@ -44,7 +44,7 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 > 🔑 **Lưu ý:** Nếu bạn không kích hoạt API này, NodeMailer sẽ không thể gửi email thông qua Gmail.
 
-![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Screenshot%2024-11-23%191544.jpg)
+![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Screenshot%202024-11-23%20191544.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Giờ là lúc bạn tạo thông tin xác thực OAuth!
 
 Bạn sẽ nhận được **Client ID** và **Client Secret** — hãy lưu lại cẩn thận!
 
-![Tạo OAuth client ID](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/create_oauth_client_id.png)
+![Tạo OAuth client ID](https://kb.pavietnam.vn/wp-content/uploads/2021/09/oauth-client-id-google-4.png.webp)
 
 ---
 
@@ -75,7 +75,7 @@ Refresh Token là chìa khóa để ứng dụng của bạn duy trì kết nố
 
 > 🚀 **Mẹo:** Refresh Token giúp bạn không cần đăng nhập lại mỗi lần gửi email.
 
-![OAuth2 Playground](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/oauth2_playground.png)
+![OAuth2 Playground](https://developers.google.com/static/google-ads/api/images/playground-authcode.png?hl=vi)
 
 ---
 
