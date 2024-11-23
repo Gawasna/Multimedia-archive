@@ -20,7 +20,7 @@ Nếu bạn đang phát triển một ứng dụng gửi hàng trăm hoặc hàn
 ### **Bước 1: Truy Cập Google Cloud Console**  
 Truy cập vào [Google Cloud Console](https://console.cloud.google.com/) — đây là nơi bạn quản lý tất cả các dự án và API của Google. Nếu bạn chưa có tài khoản Google Cloud, hãy tạo ngay một tài khoản miễn phí!
 
-*📸 **Ảnh minh họa giao diện Google Cloud Console***
+![Google Cloud Console](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/hhawud.png)
 
 ---
 
@@ -32,7 +32,7 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 > 💡 **Mẹo:** Đặt tên dự án rõ ràng để sau này dễ quản lý hơn.
 
-*📸 **Ảnh minh họa tạo dự án mới***
+![Tạo Dự Án Mới](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/create_project.png)
 
 ---
 
@@ -44,7 +44,7 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 > 🔑 **Lưu ý:** Nếu bạn không kích hoạt API này, NodeMailer sẽ không thể gửi email thông qua Gmail.
 
-*📸 **Ảnh minh họa kích hoạt Gmail API***
+![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/enable_gmail_api.png)
 
 ---
 
@@ -62,7 +62,7 @@ Giờ là lúc bạn tạo thông tin xác thực OAuth!
 
 Bạn sẽ nhận được **Client ID** và **Client Secret** — hãy lưu lại cẩn thận!
 
-*📸 **Ảnh minh họa tạo OAuth client ID***
+![Tạo OAuth client ID](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/create_oauth_client_id.png)
 
 ---
 
@@ -74,6 +74,8 @@ Refresh Token là chìa khóa để ứng dụng của bạn duy trì kết nố
 4. Sao chép **Refresh Token** được tạo ra.  
 
 > 🚀 **Mẹo:** Refresh Token giúp bạn không cần đăng nhập lại mỗi lần gửi email.
+
+![OAuth2 Playground](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/oauth2_playground.png)
 
 ---
 
