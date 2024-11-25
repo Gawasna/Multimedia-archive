@@ -13,16 +13,12 @@ Google rất nghiêm ngặt trong việc phát hiện các đăng nhập không 
 ### **3. Giải Pháp Cho Các Ứng Dụng Lớn**  
 Nếu bạn đang phát triển một ứng dụng gửi hàng trăm hoặc hàng nghìn email mỗi ngày, OAuth2 là lựa chọn duy nhất để đảm bảo tính ổn định và bảo mật lâu dài.
 
----
-
 ## Hướng Dẫn Từng Bước Lấy App Key Google  
 
 ### **Bước 1: Truy Cập Google Cloud Console**  
 Truy cập vào [Google Cloud Console](https://console.cloud.google.com/) — đây là nơi bạn quản lý tất cả các dự án và API của Google. Nếu bạn chưa có tài khoản Google Cloud, hãy tạo ngay một tài khoản miễn phí!
 
 ![Google Cloud Console](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/hhawud.png)
-
----
 
 ### **Bước 2: Tạo Dự Án Mới**  
 Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.  
@@ -34,8 +30,6 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 
 ![Tạo Dự Án Mới](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/uuwssn.png)
 
----
-
 ### **Bước 3: Kích Hoạt Gmail API**  
 Để NodeMailer có thể gửi email, bạn cần kích hoạt **Gmail API**:  
 1. Vào mục **"APIs & Services"** > **"Library"**.  
@@ -45,8 +39,6 @@ Mỗi API trên Google Cloud đều cần nằm trong một dự án cụ thể.
 > 🔑 **Lưu ý:** Nếu bạn không kích hoạt API này, NodeMailer sẽ không thể gửi email thông qua Gmail.
 
 ![Kích Hoạt Gmail API](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Screenshot%202024-11-23%20191544.jpg)
-
----
 
 ### **Bước 4: Tạo OAuth 2.0 Credentials**  
 Giờ là lúc bạn tạo thông tin xác thực OAuth!  
@@ -64,8 +56,6 @@ Bạn sẽ nhận được **Client ID** và **Client Secret** — hãy lưu l�
 
 ![Tạo OAuth client ID](https://kb.pavietnam.vn/wp-content/uploads/2021/09/oauth-client-id-google-4.png.webp)
 
----
-
 ### **Bước 5: Lấy Refresh Token**  
 Refresh Token là chìa khóa để ứng dụng của bạn duy trì kết nối lâu dài. Bạn có thể lấy nó thông qua **OAuth2 Playground**:  
 1. Truy cập [OAuth2 Playground](https://developers.google.com/oauthplayground/).  
@@ -76,8 +66,6 @@ Refresh Token là chìa khóa để ứng dụng của bạn duy trì kết nố
 > 🚀 **Mẹo:** Refresh Token giúp bạn không cần đăng nhập lại mỗi lần gửi email.
 
 ![OAuth2 Playground](https://developers.google.com/static/google-ads/api/images/playground-authcode.png?hl=vi)
-
----
 
 ### **Bước 6: Cấu Hình NodeMailer Trong Dự Án**  
 Bây giờ, hãy nhúng các thông tin trên vào code Node.js của bạn:
