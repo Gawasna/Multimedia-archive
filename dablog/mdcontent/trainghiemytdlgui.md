@@ -32,13 +32,13 @@ Dù bạn không rành công nghệ cũng không thành vấn đề. Giao diện
 1. **Tải và Cài Đặt:**  
    - Truy cập [trang chính thức](https://jely2002.github.io/youtube-dl-gui/) và tải phiên bản phù hợp cho hệ điều hành của bạn.  
    - Nếu dùng Windows, bạn cần cài đặt **Microsoft Visual C++ 2010 Redistributable Package (x86)** trước.  
-   *️⃣ _[Chèn ảnh trang tải ứng dụng]_  
+![](https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Screenshot%202024-11-25%20153202.jpg)
 
 2. **Tải Video:**  
    - Dán link video hoặc playlist vào ô nhập.  
    - Chờ ứng dụng thu thập thông tin.  
    - Chọn độ phân giải, định dạng rồi nhấn nút **Download**. Video sẽ được lưu trong thư mục **Downloads**.  
-   *️⃣ _[Chèn ảnh minh họa quá trình tải video]_  
+ 
 
 3. **Khắc Phục Lỗi:**  
    Nếu gặp sự cố, bạn nên kiểm tra phần **FAQ** hoặc **Wiki** trên GitHub. Nếu không giải quyết được, có thể tạo issue để được hỗ trợ.  
