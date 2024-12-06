@@ -1,4 +1,4 @@
-###Card đồ họa rời là gì?###
+### Card đồ họa rời là gì?
 Card đồ họa rời là một linh kiện không thể thiếu trong một chiếc PC của game thủ hay các nhà thiết kế hiện nay. Card đồ họa rời có các tính năng vượt trội và khả năng xử lý các tác vụ đồ họa mang đến chất lượng và trải nghiệm cho người dùng về hình ảnh, video,…sắc nét và sống động. Bài viết dưới đây của Mstar Corp sẽ giúp mọi người hiểu rõ hơn về card đồ họa rời và những ưu điểm nổi bật của nó mang lại.
 ![](<https://raw.githubusercontent.com/Gawasna/Multimedia-archive/refs/heads/main/dablog/thumbs/Card%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20r%E1%BB%9Di%20l%C3%A0%20g%C3%AC4%20c%C3%A1ch%20nh%E1%BA%ADn%20bi%E1%BA%BFt%20laptop%20c%C3%B3%20card%20%C4%91%E1%BB%93%20h%E1%BB%8Da(1).png>)
 **Card đồ họa rời là gì?**
@@ -43,7 +43,7 @@ Các dòng card đồ họa rời nổi bật của NVIDIA bao gồm: GeForce, Q
 AMD chính là đối thủ cạnh tranh lớn nhất với NVIDIA về việc sản xuất chipset cho card đồ họa mạnh chuyên dụng cho việc chơi game. AMD (Advanced Micro Devices) là thương hiệu lớn thứ 2 trên thế giới chỉ sau Intel và AMD có trụ sở tại Hoa Kỳ về lĩnh vực sản xuất chip máy tính với thiết kế chip độc quyền, card đồ họa rời và các linh kiện điện tử khác.
 Các dòng card đồ họa của AMD thường được trang bị trên nhiều mẫu laptop phục vụ cho nhiều nhu cầu khác nhau từ học tập – văn phòng cho đến gaming, trong đó nổi tiếng nhất là những mã card màn hình rời chuyên dùng cho đồ họa như Firepro W series và các dòng chuyên dùng cho gaming như Radeon RX 6000 series.
 
-###4 cách nhận biết laptop có card đồ họa###
+### 4 cách nhận biết laptop có card đồ họa
 Để nhận biết laptop đang sử dụng card đồ họa nào bạn có thể áp dụng các cách phổ biến dưới đây:
 
 **Kiểm tra tem card màn hình trên thân máy**
