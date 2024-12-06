@@ -1,0 +1,17 @@
+### Ngôn ngữ lập trình C# là gì?
+Trong các ngôn ngữ lập trình thì **C#** (đọc là "C thăng" hay "C sharp" ("xi-sáp")) là một ngôn ngữ lập trình hướng đối tượng được phát triển bởi Microsoft, là phần khởi đầu cho kế hoạch . NET của họ. Tên của ngôn ngữ bao gồm ký tự thăng theo Microsoft nhưng theo ECMAlà C#, chỉ bao gồm dấu số thường. Microsoft phát triển C#dựa trên C++ và Java.
+Tham gia các khóa học lập trình app quản lý theo ngôn ngữ C# bạn sẽ được các trung tâm đào tạo hỗ trợ những kiến thức từ cơ bản đến nâng cao của một trong các loại ngôn ngữ lập trình thông dụng nhất hiện nay.
+Việc sử dụng thành thạo ngôn ngữ lập trình C# sẽ giúp bạn :
+·       Nhận được mức thu nhập lập trình viên từ 10 triệu – 25 triệu/tháng.
+·       Cơ hội việc làm mở rộng, khả năng phát triển trong tương lai cực cao khi công nghệ ngày càng phát triển nhưng lượng nhân sự chuyên môn cao đang bị thiếu trầm trọng cho kế hoạch các doanh nghiệp “ăn theo” sự phát triển CNTT.
+Đây chỉ là 2 ưu điểm được liệt kê, ngoài ra nếu bạn lựa chọn ngôn ngữ thiết kế website này sẽ còn nhận được nhiều ưu điểm trong tương lai dựa theo xu hướng phát triển hiện giờ. Thật sự có quá nhiều vấn đề khi đề cập đến sự phát triển của C# trong cuộc sống vì những ứng dụng mà nó mang lại đang ngày càng thay đổi cuộc sống xung quanh chúng ta. 
+![](https://media.licdn.com/dms/image/v2/C5112AQGMT_c-Ep0-pA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1520041986248?e=1738800000&v=beta&t=4LkqVqINyWQzknYtOiSLeozb9XIViP0omURua7F3PXE)
+### C# sẽ là ngôn ngữ lập trình tương lai nghề nghiệp của bạn
+Nếu bạn yêu thích trải nghiệm sử dụng công nghệ lập trình game thực tế ảo nhưng vẫn chưa biết lựa chọn loại ngôn ngữ nào để học chuyên sâu thì C# chính là điều bạn đang cần. Rất nhiều bạn phát triển sự nghiệp từ C# hiện đang rất thành công và có nhiều giá trị mang đến cho cộng đồng. Ngoài ra, bạn cũng có thể học C++ - Ngôn ngữ lập trình lập trình tốt nhất hiện nay để bổ sung thêm nhiều kỹ năng cho bản thân.
+Ngôn ngữ lập trình C# đang từng ngày hiện hữu trong chính cuộc sống của chúng ta. Hiện nay, C# đã có mặt ở hơn 100 000 ứng dụng như thiết kế website bán mỹ phẩm đẹp, ứng dụng quản lý nhà hàng, quản lý nhân sự, quản lý thư viện, quán cà phê, rao vặt, báo nail
+Cách tốt nhất để bạn tiếp cận với loại ngôn ngữ này đó là tham gia các khóa học đào tạo trực tuyến tại những trung tâm tin học chuyên nghành. Tại TPHCM thì các bạn có thể tham khảo tại các trung tâm thiết kế website trường học như Aptech, Nhất Nghệ.... đây đều là những “lò” đào tạo có đầu ra học viên rất chất lượng. Mô hình học tập tại các trung tâm sẽ giúp bạn rèn luyện kiến thức, kỹ năng từ cơ bản đến nâng cao, việc học luôn đi đôi với các bài thực hành nhằm giúp bạn ghi nhớ luôn bài học. Hoàn thành tốt các giai đoạn của khóa học, khi tốt nghiệp, bạn sẽ nắm chắc các cấp độ quan trọng của nghề lập trình của dòng ngôn ngữ này, có thể ứng dụng ngay vào cuộc sống hiện tại của bạn.
+Các kỹ năng bạn sẽ nhận được, bao gồm :
+**- Hiểu rõ các yếu tố quan trọng cần chú ý khi làm mới website. **
+**- Tư duy sáng tạo được nâng cao, phát triển kỹ năng ngôn ngữ lập trình hướng đối tượng C#.NET. Xem thêm : Lập trình giúp các bạn trẻ bớt nghiện game**
+**- Thực hiện ngay các ứng dụng từ đơn giản như quản lý 1 cửa hàng đến phức tạp như quản lý 1 chuỗi các cửa hàng. **
+**- Là cơ sở để tiếp thu các công nghệ mới như ngôn ngữ lập trình .NET web ASP.NET, lập trình Game Unity 2d/3d viết game chạy đa nền tảng, lập trình Mobile Windows Phone…**
